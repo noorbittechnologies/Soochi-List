@@ -1,5 +1,6 @@
 ## Soochi - Shopping | Any - List
 
+![image](noun_List_1683533-3.png)
 
 **Soochi** is simplest Shopping List application based on very simple functional design principles.
 Soochi is No Non-Sense List design. Using latest SWIFTUI iOS language with faster future updates.
