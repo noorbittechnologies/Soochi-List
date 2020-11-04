@@ -1,29 +1,23 @@
-## Welcome to GitHub Pages
+## Soochi - Shopping | Any - List
 
-You can use the [editor on GitHub](https://github.com/noorbittechnologies/Soochi-support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#You can use the [editor on GitHub](https://github.com/noorbittechnologies/Soochi-support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Soochi is simplest Shopping List application based on very simple functional design principles.
+Soochi is No Non-Sense List design. Using latest SWIFTUI iOS language with faster future updates.
 
-### Markdown
+### Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+	✓	Keep your Items in separate relevant Folders
+	✓	Easily     — Add Folder / Items — with word suggestions
+	✓	Instantly — Remove Done Items —
+	✓	Keeps Done items in separate List before finally delete them.
+	✓	Reuse    — Removed Items —
+	✓	Quickly Edit Folder / Items Lists
+	✓	Multiple language support English, French, Spanish, Japanese, Chinese (HK, Simplified, Traditional)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
